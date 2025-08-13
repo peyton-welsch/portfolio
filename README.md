@@ -1,3 +1,6 @@
 # Portfolio
 
-This repository contains projects where the main focus was data analysis and visual representation. I was given sample data and an objective and created these Jupyter notebooks from there.
+This repository contains projects where the main focus was data analysis and representation. These projects were coded in Python using Jupyter Notebook.
+
+-[Euler's Method](#Euler's Method)
+-[Thin Rod Temperature Profile Modeling](#Thin Rod Temperature Profile Modeling)
